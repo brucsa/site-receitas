@@ -1,3 +1,4 @@
-# Site de Receitas em construção
+# Site de Receitas
 
- Um site fictício desenvolvido para estudo e prática de desenvolvimento web, focado em receitas culinárias.
+🟡 Em andamento
+Um site fictício desenvolvido para estudo e prática de desenvolvimento web, focado em receitas culinárias.
